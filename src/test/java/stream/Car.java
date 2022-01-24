@@ -1,5 +1,8 @@
 package stream;
 
+import lombok.Data;
+
+@Data
 public class Car {
 
     //변수 선언
